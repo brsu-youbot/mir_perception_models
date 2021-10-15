@@ -4,6 +4,7 @@ This repository contains perception models for industrial robotics.
 
 Directory structure:
 
+```
 ├── CMakeLists.txt
 └── package.xml
 ├── common
@@ -13,3 +14,4 @@ Directory structure:
                 ├── model.ckpt.data-00000-of-00001
                 ├── model.ckpt.index
                 └── model.ckpt.meta
+```
